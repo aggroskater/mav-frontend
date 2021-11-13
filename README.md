@@ -15,6 +15,9 @@ Angular. I'll likely use
 [ngx-videogular](https://github.com/videogular/ngx-videogular) along with OData
 client-side libraries to query the backend's OData endpoints.
 
+Also... PrimeNG or Angular Material? Kinda leaning toward PrimeNG since that's
+what I already know, honestly.
+
 I don't have any intention of this becoming an actual open source project.
 It'll likely just be my own personal archive viewer.
 
